@@ -2,21 +2,19 @@
 
 ## Bachelor of Technology (B.Tech)
 
-- **Branch:** Artificial Intelligence and Machine Learning (AI & ML)
-- **Institution:** Aditya college (ACET)
-- **Study Period:** Your actual joining year – expected graduation year
-- **CGPA / Percentage:** 8.8
+**University:** Adityacollege(ACET)
+
+**Branch:** Artificial Intelligence and Machine Learning (AI & ML) 
+**Study Period:** [2025-2028]
 
 ## Relevant Coursework
-
-- Programming Fundamentals
+- Python Programming
 - Data Structures and Algorithms
-- Database Management Systems
-- Computer Networks
-- Software Engineering
+- Artificial Intelligence and Machine Learning
+- Web Development
+- Database Management Systems — include if studied
 
-## Achievements and Certifications
+## Certifications and Achievements
+- Google Cloud learning activities and skill badges — list specific badges only after completing them.
+- Hackathons, technical challenges, and project-based learning — include the actual events and achievements you participated in.
 
-- Google Cloud Gen AI Academy — add the actual completion status or credential earned.
-- Add verified certifications, hackathons, awards, or academic achievements.
-- Include the year and issuing organisation where relevant.

@@ -1,23 +1,28 @@
-# Technical Skills
-
-Replace these examples with skills you can confidently discuss in an interview.
+# Technical Skills and Learning Goals
 
 ## Programming Languages
-- Java — Beginner / Intermediate
-- Python — Beginner / Intermediate
-- C — Beginner
+- Python
+- JavaScript
+- Java (include only if you have learned it)
 
-## Web Technologies
+## Web Development
 - HTML
 - CSS
-- JavaScript (currently learning)
+- React
 
 ## Developer Tools
 - Git
 - GitHub
 - Visual Studio Code
 
-## Skills to Improve
-- Data Structures and Algorithms
-- SQL and database fundamentals
-- Testing and debugging
+## Areas of Interest
+- Artificial Intelligence and Machine Learning
+- Data Analytics
+- Cloud Technologies
+
+## Learning Goals
+- Strengthen problem-solving and data structures and algorithms skills.
+- Improve React development and responsive web design.
+- Build practical AI and machine learning projects.
+- Gain hands-on experience with cloud services and deployment.
+- Improve collaboration through Git branches and pull requests.
