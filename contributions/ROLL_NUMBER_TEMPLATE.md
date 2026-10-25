@@ -1,7 +1,7 @@
 # Git and GitHub Learning Notes
 
-- **Name:** Your Name
-- **Roll Number:** YOUR_ROLL_NUMBER
+- **Name:** Pachipala Kamala Harshitha
+- **Roll Number:** 25p35a4241
 
 ## Three Git Commands I Learned
 1. `git status` — shows the state of the working directory and staging area.

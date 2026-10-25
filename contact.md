@@ -1,11 +1,9 @@
 # Contact
 
-Use only professional contact information you are comfortable making public.
+Use the following professional contact information to connect with me.
 
-- **Name:** Your Name
-- **Email:** your.email@example.com
-- **GitHub:** https://github.com/your-username
-- **LinkedIn:** Add your profile URL if available
-- **Location:** Optional — city or region only
-
-**Privacy reminder:** Do not publish your home address, passwords, access tokens, or other sensitive information in a public repository.
+- **Name:** Pachipala Kamala Harshitha
+- **Email:** your-actual-email@example.com
+- **GitHub:** https://github.com/kamala0257
+- **LinkedIn:** https://www.linkedin.com/in/kamala-harshitha-pachipala-491291314/?isSelfProfile=true
+- **Location:** Andhra Pradesh, India 
