@@ -1,26 +1,25 @@
-# Projects
+# My Projects
 
-Add clear, honest descriptions of academic and personal projects.
+## Project 1: Food Ordering Application
 
-## Project 1: Student Attendance Tracker
-- **Problem:** Keeping attendance records organised can take time.
-- **Solution:** A small application concept for entering attendance and producing a summary.
-- **Technologies:** Java, CSV files
-- **My contribution:** Implemented the input flow and summary logic.
-- **Possible improvement:** Add data validation and export reports.
+**Problem:** Customers need a convenient way to browse food items and place orders through an organised interface.
 
-## Project 2: Personal Portfolio Website
-- **Problem:** Students need a simple way to present their skills and work.
-- **Solution:** A responsive webpage with sections for about, skills, projects, and contact details.
-- **Technologies:** HTML, CSS, Git
-- **My contribution:** Created the page structure and styling.
-- **Possible improvement:** Add a project filter and improve accessibility.
+**Solution:** Developed a web application concept for displaying food items and providing a user-friendly food-ordering experience.
 
-## Project template
-### Project Name
-- **Problem:**
-- **Solution:**
-- **Technologies:**
-- **My contribution:**
-- **What I learned:**
-- **Future improvement:**
+**Technologies:** React, JavaScript, HTML, CSS.
+
+**My Contribution:** Worked on the user interface, component structure, and page layout.
+
+**Possible Improvement:** Add user authentication, database integration, order tracking, and online payment support.
+
+## Project 2: Buy or Wait? — AI Financial Agent
+
+**Problem:** Users may struggle to decide whether they can safely afford a purchase based on their financial situation, upcoming expenses, and available payment options.
+
+**Solution:** Developed an AI financial-agent project designed to analyse financial information, estimate affordability, and recommend whether to buy now or wait.
+
+**Technologies:** Python, CSV data processing, financial calculations, AI-agent logic.
+
+**My Contribution:** Worked on processing financial datasets, calculating safe-to-pay amounts, evaluating payment options, and generating purchase recommendations.
+
+**Possible Improvement:** Integrate real-time bank transactions, add a user-friendly dashboard, and improve recommendations using updated financial data.
